@@ -6,6 +6,7 @@ output: github_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jody/bindRtut/HEAD)
 
 ## Zero-to-Binder exploration
 
