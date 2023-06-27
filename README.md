@@ -7,6 +7,11 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Zero-to-Binder exploration
+
+Source: https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html
+
+
 ## How to Use Binder for Reproducible Research
 
 Example README.md file for the tutorial on how to use Binder for reproducible research in R statistical environment.
